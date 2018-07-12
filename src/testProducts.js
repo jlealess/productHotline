@@ -1,5 +1,5 @@
 const testProducts = {
-  item1: {
+    1531399709771: {
     brand: "Apple",
     name: "iPhone X",
     price: "1099",
@@ -11,7 +11,7 @@ const testProducts = {
     weight: "6.14 ounces",
     size: '5.65"'
   },
-  item2: {
+    1531399726918: {
     brand: "Apple",
     name: "iPhone 8",
     price: "899",
@@ -23,7 +23,7 @@ const testProducts = {
     weight: "6.14 ounces",
     size: '5.65"'
   },
-  item3: {
+    1531399744636: {
     brand: "Apple",
     name: "iPhone 7",
     price: "799",
@@ -35,7 +35,7 @@ const testProducts = {
       weight: '6.14 ounces',
       size: '5.65\"'
   },
-  item4: {
+    1531399755669: {
     brand: "Apple",
     name: "iPhone 6S",
     price: "699",
@@ -47,7 +47,7 @@ const testProducts = {
       weight: '6.14 ounces',
       size: '5.65\"'
   },
-  item5: {
+    1531399764980: {
     brand: "Samsung",
     name: "Galaxy J3 Prime",
     price: "199.99",
@@ -59,7 +59,7 @@ const testProducts = {
       weight: '6.14 ounces',
       size: '5.65\"'
   },
-  item6: {
+    1531399774998: {
     brand: "Samsung",
     name: "Galaxy S9",
     price: "959.99",
